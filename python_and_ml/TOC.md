@@ -50,7 +50,7 @@ Pythonはプログラミング言語初学者でも比較的気軽に使え、�
     - 3-1. 軽量な機械学習（scikit learn）
     - 3-2. 深層学習ライブラリ1（TensorFlow & PyTorch）
     - 3-3. 深層学習ライブラリ2（JAX & Flax）
-    - 3-4. 深層学習ライブラリ3（Keras）
+    - 3-4. 深層学習ライブラリ3（Keras & Tensorboard?）
 4. 機械学習の補助ライブラリ
     - 4-1. ハイパラ探索（optuna）
     - 4-2. HaggingFaceのライブラリ（transformers & diffusers）
