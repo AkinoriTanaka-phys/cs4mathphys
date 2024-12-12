@@ -45,7 +45,7 @@ Pythonはプログラミング言語初学者でも比較的気軽に使え、�
 2. [よく使われるライブラリ](section2/preface.md)
     - [2-1. 配列と図のプロット（numpy & matplotlib）](section2/2-1.md)
     - [2-2. 数学的な処理（sympy & scipy）](section2/2-2.md)
-    - 2-3. データサイエンス系（pandas & seaborn）
+    - [2-3. データサイエンス系（pandas & seaborn）](section2/2-3.md)
 3. 機械学習ライブラリ
     - 3-1. 軽量な機械学習（scikit learn）
     - 3-2. 深層学習ライブラリ1（TensorFlow & PyTorch）
