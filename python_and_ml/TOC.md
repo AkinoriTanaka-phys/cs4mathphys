@@ -49,11 +49,12 @@ Pythonはプログラミング言語初学者でも比較的気軽に使え、�
 3. [機械学習ライブラリ](section3/preface.md)
     - [3-1. 軽量な機械学習（scikit learn）](section3/3-1.md)
     - [3-2. 深層学習ライブラリ1（Keras, Tensorboard）](section3/3-2.md)
-    - [3-3. 深層学習ライブラリ2（TensorFlow & PyTorch & JAX, HaggingFace）](section3/3-3.md)
-4. 機械学習の補助ライブラリ
-    - 4-1. ハイパラ探索（optuna）
-    - 4-2. 強化学習の環境（Gymnasium, PettingZoo）
-    - 4-3. 強化学習ライブラリ？（...）
+    - [3-3. 深層学習ライブラリ2（TensorFlow & PyTorch & JAX）](section3/3-3.md)
+4. その他の話題
+    - 4-1. 言語モデル/拡散モデルのライブラリ（transformers & diffusers）
+    - 4-2. 強化学習（Gymnasium & PettingZoo, and others）
+    - 4-3. マルチGPUの使用
+    - 4-3. ハイパラ調整（Optuna?）
 
 
 
