@@ -58,12 +58,10 @@ Pythonはプログラミング言語初学者でも比較的気軽に使え、�
 
 ## 付録
 
-- numpyで作る強化学習
+- 強化学習入門
     1. [rl-1. Statelessな場合](rl_np/1.md)
-    2. rl-2. Statefulな場合
-    3. rl-3. マルチエージェントの場合
-
-
+    2. [rl-2. Statefulな場合1](rl_np/2.md)
+    3. [rl-3. Statefulな場合2](rl_np/3.md)
 
 # 参考文献
 
