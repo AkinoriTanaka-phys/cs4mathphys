@@ -52,9 +52,16 @@ Pythonはプログラミング言語初学者でも比較的気軽に使え、�
     - [3-3. 深層学習ライブラリ2（TensorFlow & PyTorch & JAX）](section3/3-3.md)
 4. その他の話題
     - 4-1. 言語モデル/拡散モデルのライブラリ（transformers & diffusers）
-    - 4-2. 強化学習（Gymnasium & PettingZoo, and others）
+    - [4-2. 強化学習の環境ライブラリ（Gymnasium & PettingZoo）](section4/4-2.md)
     - 4-3. マルチGPUの使用
     - 4-3. ハイパラ調整（Optuna?）
+
+## 付録
+
+- numpyで作る強化学習
+    1. [rl-1. Statelessな場合](rl_np/1.md)
+    2. rl-2. Statefulな場合
+    3. rl-3. マルチエージェントの場合
 
 
 
