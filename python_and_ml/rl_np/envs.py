@@ -104,9 +104,10 @@ class CustomizedCliffWalking(gym.envs.toy_text.CliffWalkingEnv):
 class EasyCliffWalking(CustomizedCliffWalking):
      def step(self, a):
           s, r, terminated, truncated, info_env = super().step(a)
-          r += 1
           if terminated:
-               r += 2
+                r += 2
+          if r < -50:
+                terminated = True
           return s, r, terminated, truncated, info_env
 
 class CustomizedFrozenLake(gym.envs.toy_text.FrozenLakeEnv):
