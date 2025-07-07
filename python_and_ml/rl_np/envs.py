@@ -60,7 +60,7 @@ class ContinuumSlots(gym.Env):
 # )
 
 # To use the class definitions, you need to call the corresponding class by gym.make().
-env_ = gym.make('CliffWalking-v0', render_mode="rgb_array")
+env_ = gym.make('CliffWalking-v1', render_mode="rgb_array")
 env_ = gym.make('FrozenLake-v1', map_name="4x4", render_mode="rgb_array")
 
 class CustomizedCliffWalking(gym.envs.toy_text.CliffWalkingEnv):
