@@ -26,7 +26,7 @@
     - [1-3. シェルでプログラミング](section1/1-3.md)
     - [1-4. シェルの設定](section1/1-4.md)
 2. 実用編
-    - pythonの仮想環境
+    - [2-1. pythonの仮想環境](section2/2-1.md)
     - sshによる別マシンへのリモート接続
     - gitによるバージョン管理
     - docker/singularityによる仮想環境
