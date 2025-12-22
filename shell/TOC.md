@@ -28,7 +28,7 @@
 2. 実用編
     - [2-1. pythonの仮想環境](section2/2-1.md)
     - [2-2. LaTeXコマンド入門](section2/2-2.md)
-    - sshによる別マシンへのリモート接続
+    - [2-3. sshによる別マシンへのリモート接続](section2/2-3.md)
     - gitによるバージョン管理
     - docker/singularityによる仮想環境
 
