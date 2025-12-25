@@ -29,12 +29,8 @@
     - [2-1. pythonの仮想環境](section2/2-1.md)
     - [2-2. LaTeXコマンド入門](section2/2-2.md)
     - [2-3. sshによる別マシンへのリモート接続](section2/2-3.md)
-    - gitによるバージョン管理
-    - docker/singularityによる仮想環境
+    - [2-4. gitによるバージョン管理](section2/2-4.md)
 
 ## 参考文献
 
 - Linuxの教科書（メールアドレス登録から無料でpdf版が手に入れられます）：https://linuc.org/textbooks/linux/
-- python仮想環境： https://zenn.dev/tigrebiz/articles/2822fb4de256d8
-- ssh：
-- OpenPBS：
